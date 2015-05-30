@@ -6,3 +6,4 @@
 *.pyc
 *.log
 *.synctex.gz
+.ipynb_checkpoints/
