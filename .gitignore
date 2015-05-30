@@ -1,0 +1,6 @@
+*.aux
+*.toc
+*.nav
+*.out
+*.snm
+*.pyc
